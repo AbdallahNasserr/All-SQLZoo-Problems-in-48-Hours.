@@ -160,13 +160,13 @@ select * from nobel where
 
 
 
---Find all details of the prize won by PETER GRÜNBERG Non-ASCII characters
+--Find all details of the prize won by PETER GRÃœNBERG Non-ASCII characters
 
 
 
 
 select * from nobel 
-where winner = 'PETER GRÜNBERG'
+where winner = 'PETER GRÃœNBERG'
 
 
 
